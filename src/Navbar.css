@@ -1,0 +1,148 @@
+@media all{     
+    body {  
+      font-family:sans-serif;
+      font-size:16px;
+      line-height:1.5;
+      color:#545454;
+    }  
+  }  
+  @media all{ 
+    * { 
+      -webkit-box-sizing: border-box; 
+      box-sizing: border-box;
+    } 
+  
+    body { 
+      margin: 0;
+    } 
+  
+    body { 
+      background-color: black;
+    } 
+  
+    html { 
+      font-family: sans-serif; 
+      -ms-text-size-adjust: 100%; 
+      -webkit-text-size-adjust: 100%;
+    } 
+  
+    html { 
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+      font-size: 16px; 
+      line-height: 1.5; 
+      color: #545454;
+    } 
+  
+    .preview__header { 
+      font-size: 12px; 
+      height: 54px; 
+      background-color: #262626; 
+      z-index: 100; 
+      line-height: 54px; 
+      margin-bottom: 1px;
+    } 
+  
+    *,:before,:after { 
+      -webkit-box-sizing: border-box; 
+      box-sizing: border-box;
+    } 
+  
+    .preview__envato-logo { 
+      float: left; 
+      padding: 0 20px;
+    } 
+  
+    .preview__actions { 
+      float: right;
+    } 
+  
+    a { 
+      background-color: transparent; 
+      -webkit-text-decoration-skip: objects;
+    } 
+  
+    .preview__envato-logo a  { 
+      display: inline-block; 
+      position: absolute; 
+      top: 18px; 
+      text-indent: -9999px; 
+      height: 18px; 
+      width: 152px; 
+      background: url(https://public-assets.envato-static.com/assets/logos/envato_market-dde916a48af7413e54aa058fe7ae6856752fca799da4bec355f00aea904bfa19.svg); 
+      background-size: 152px 18px;
+    } 
+  
+    a:active,a:hover { 
+      outline-width: 0;
+    } 
+  
+    .preview__action--buy { 
+      display: inline-block; 
+      padding: 0 20px;
+    } 
+  
+    .e-btn--3d { 
+      -webkit-font-smoothing: antialiased; 
+      -moz-osx-font-smoothing: grayscale; 
+      -webkit-box-sizing: border-box; 
+      box-sizing: border-box; 
+      display: inline-block; 
+      margin: 0; 
+      border: none; 
+      border-radius: 4px; 
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+      text-align: center; 
+      text-decoration: none; 
+      cursor: pointer;
+    } 
+  
+    .e-btn--3d { 
+      background-color: gray; 
+      color: white;
+    } 
+  
+    .e-btn--3d { 
+      font-size: 14px; 
+      padding: 5px 20px; 
+      line-height: 1.5;
+    } 
+  
+    .e-btn--3d { 
+      -webkit-box-shadow: 0 2px 0 #545454; 
+      box-shadow: 0 2px 0 #545454; 
+      position: relative;
+    } 
+  
+    .-color-primary.e-btn--3d { 
+      background-color: #82b440;
+    } 
+  
+    .e-btn--3d.-color-primary { 
+      -webkit-box-shadow: 0 2px 0 #6f9a37; 
+      box-shadow: 0 2px 0 #6f9a37; 
+      position: relative;
+    } 
+  
+    .e-btn--3d:hover { 
+      text-decoration: none; 
+      outline: none;
+    } 
+  
+    .e-btn--3d:hover,.e-btn--3d:active { 
+      background-color: #787878;
+    } 
+  
+    .-color-primary.e-btn--3d:hover,.-color-primary.e-btn--3d:active { 
+      background-color: #7aa93c;
+    } 
+  }     
+  
+  .logo{
+    width: 160px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 6px;
+  }
+  
+  
